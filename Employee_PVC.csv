@@ -1,0 +1,700 @@
+﻿City,JoiningYear,Education,PaymentTier,Age,Gender,EverBenched,ExperienceInCurrentDomain,LeaveOrNot
+Bangalore,2017,Bachelors,3,34,Male,No,0,NO
+Pune,2013,Bachelors,1,28,Female,No,3,YES
+New Delhi,2014,Bachelors,3,38,Female,No,2,NO
+Bangalore,2016,Masters,3,27,Male,No,5,YES
+Pune,2017,Masters,3,24,Male,Yes,2,YES
+Bangalore,2016,Bachelors,3,22,Male,No,0,NO
+New Delhi,2015,Bachelors,3,38,Male,No,0,NO
+Bangalore,2016,Bachelors,3,34,Female,No,2,YES
+Pune,2016,Bachelors,3,23,Male,No,1,NO
+New Delhi,2017,Masters,2,37,Male,No,2,NO
+Bangalore,2012,Masters,3,27,Male,No,5,YES
+Pune,2016,Bachelors,3,34,Male,No,3,NO
+Pune,2018,Bachelors,3,32,Male,Yes,5,YES
+Bangalore,2016,Bachelors,3,39,Male,No,2,NO
+Bangalore,2012,Bachelors,3,37,Male,No,4,NO
+Bangalore,2017,Bachelors,1,29,Male,No,3,NO
+Bangalore,2014,Bachelors,3,34,Female,No,2,NO
+Pune,2014,Bachelors,3,34,Male,No,4,NO
+Pune,2015,Bachelors,2,30,Female,No,0,YES
+New Delhi,2016,Bachelors,2,22,Female,No,0,YES
+Bangalore,2012,Bachelors,3,37,Male,No,0,NO
+New Delhi,2017,Masters,2,28,Male,No,4,NO
+New Delhi,2017,Bachelors,2,36,Male,No,3,NO
+Bangalore,2015,Bachelors,3,27,Male,Yes,5,NO
+Bangalore,2017,Bachelors,3,29,Male,No,4,NO
+Bangalore,2013,Bachelors,3,22,Female,Yes,0,NO
+Bangalore,2016,Bachelors,3,37,Male,No,2,NO
+Bangalore,2015,Bachelors,3,23,Male,No,1,NO
+Pune,2013,Bachelors,2,31,Female,No,2,YES
+New Delhi,2017,Masters,2,30,Female,No,2,NO
+New Delhi,2013,PHD,3,25,Male,No,3,NO
+Bangalore,2014,Bachelors,3,23,Male,No,1,NO
+Bangalore,2018,Bachelors,3,26,Male,No,4,YES
+Bangalore,2016,Bachelors,3,40,Male,No,5,NO
+Pune,2017,Bachelors,2,37,Female,No,0,YES
+Bangalore,2014,Bachelors,1,30,Female,No,3,NO
+New Delhi,2012,Bachelors,3,29,Male,No,3,NO
+New Delhi,2018,Bachelors,2,34,Female,No,0,YES
+Pune,2017,Bachelors,2,29,Female,No,2,YES
+Pune,2014,Bachelors,3,30,Male,Yes,4,NO
+Bangalore,2015,Bachelors,3,36,Male,No,1,NO
+New Delhi,2017,Masters,2,23,Male,No,1,NO
+Bangalore,2013,Bachelors,3,30,Male,No,3,YES
+Bangalore,2014,Bachelors,3,36,Male,No,0,NO
+Pune,2015,Bachelors,3,39,Male,No,4,NO
+Bangalore,2014,Bachelors,3,23,Female,No,1,NO
+New Delhi,2012,PHD,3,27,Male,No,5,NO
+New Delhi,2013,Masters,3,35,Male,No,2,NO
+New Delhi,2017,Masters,2,34,Male,No,0,NO
+Bangalore,2013,Bachelors,3,30,Female,No,1,NO
+New Delhi,2017,PHD,3,34,Male,No,2,NO
+Pune,2015,Bachelors,2,26,Female,No,4,YES
+Bangalore,2016,Bachelors,3,34,Female,No,0,NO
+Bangalore,2014,Bachelors,3,31,Female,Yes,5,NO
+New Delhi,2017,Bachelors,3,31,Female,Yes,5,NO
+New Delhi,2013,PHD,3,28,Male,No,2,NO
+Bangalore,2016,Bachelors,3,38,Male,No,2,NO
+Pune,2014,Masters,3,39,Female,No,2,NO
+Pune,2013,Bachelors,3,32,Male,No,4,NO
+Pune,2017,Masters,2,36,Male,No,2,YES
+New Delhi,2013,Masters,3,29,Male,No,3,NO
+Bangalore,2015,Bachelors,3,30,Male,No,5,NO
+Bangalore,2013,PHD,2,25,Male,No,3,YES
+Pune,2014,Bachelors,1,22,Female,No,0,YES
+Bangalore,2016,Bachelors,3,34,Male,No,4,NO
+Bangalore,2018,Bachelors,3,40,Male,No,1,YES
+Bangalore,2013,PHD,3,26,Male,No,4,NO
+New Delhi,2014,Bachelors,3,28,Male,No,0,NO
+Bangalore,2015,Bachelors,3,24,Female,No,2,NO
+Bangalore,2017,Masters,3,40,Female,No,2,YES
+Bangalore,2018,Bachelors,3,23,Female,No,1,YES
+Bangalore,2017,Masters,3,31,Male,No,4,NO
+Pune,2014,Bachelors,3,25,Female,No,3,NO
+Bangalore,2014,Bachelors,1,27,Male,No,5,NO
+New Delhi,2017,Masters,2,25,Female,No,3,YES
+Bangalore,2015,Bachelors,3,40,Male,No,0,YES
+Bangalore,2014,Bachelors,1,23,Female,No,1,NO
+Bangalore,2017,Bachelors,3,23,Female,No,1,NO
+Bangalore,2012,Bachelors,3,39,Male,No,1,NO
+New Delhi,2015,PHD,1,37,Male,No,1,NO
+Pune,2017,Bachelors,3,38,Male,No,2,NO
+Bangalore,2013,Bachelors,3,31,Female,No,0,YES
+Bangalore,2016,Bachelors,3,38,Male,No,5,NO
+Bangalore,2017,Bachelors,3,25,Female,No,3,NO
+Bangalore,2015,Bachelors,3,27,Female,Yes,5,YES
+Pune,2016,Bachelors,2,36,Male,No,0,YES
+Pune,2017,Bachelors,2,27,Female,No,5,YES
+Pune,2015,Masters,2,32,Female,No,4,NO
+Bangalore,2014,Bachelors,3,28,Male,No,4,NO
+New Delhi,2012,Masters,3,32,Male,No,2,NO
+Bangalore,2018,Bachelors,3,30,Male,No,0,YES
+New Delhi,2015,Bachelors,3,22,Male,No,0,NO
+New Delhi,2017,Bachelors,2,34,Female,No,5,NO
+New Delhi,2013,Masters,3,36,Male,No,2,NO
+Bangalore,2014,Bachelors,3,39,Male,No,3,YES
+Bangalore,2018,PHD,3,26,Male,No,4,YES
+Bangalore,2016,Bachelors,3,31,Female,No,0,NO
+Bangalore,2014,Bachelors,3,27,Male,No,5,YES
+Bangalore,2014,Bachelors,3,29,Female,No,0,NO
+Bangalore,2015,Bachelors,3,24,Female,No,2,YES
+Pune,2012,Masters,3,25,Male,No,3,YES
+Pune,2013,Bachelors,3,25,Male,No,3,NO
+New Delhi,2017,Masters,3,26,Female,No,4,YES
+Pune,2015,Bachelors,2,28,Female,Yes,1,YES
+New Delhi,2017,Bachelors,3,28,Male,No,2,NO
+Pune,2015,Masters,1,28,Female,No,3,YES
+New Delhi,2015,Masters,3,25,Male,No,3,NO
+Bangalore,2017,Bachelors,3,28,Male,No,1,NO
+Pune,2013,Masters,3,25,Male,No,3,NO
+Bangalore,2015,Bachelors,2,25,Female,No,3,YES
+Bangalore,2015,Bachelors,3,27,Female,No,5,NO
+Pune,2017,Bachelors,2,27,Female,No,5,YES
+Bangalore,2013,Bachelors,3,27,Male,No,5,YES
+Bangalore,2012,Bachelors,3,25,Male,No,3,NO
+New Delhi,2017,Masters,2,28,Male,No,2,NO
+Pune,2014,Bachelors,1,26,Female,No,4,YES
+Bangalore,2015,Bachelors,3,28,Male,No,2,NO
+New Delhi,2013,Masters,3,26,Male,No,4,NO
+Bangalore,2017,Bachelors,3,26,Female,No,4,NO
+New Delhi,2017,Bachelors,2,25,Male,No,3,NO
+Bangalore,2012,Bachelors,1,28,Female,No,3,NO
+New Delhi,2015,PHD,3,26,Male,No,4,NO
+New Delhi,2015,Bachelors,3,25,Female,No,3,NO
+Bangalore,2012,Bachelors,3,26,Male,No,4,YES
+Bangalore,2014,Bachelors,3,28,Female,No,3,NO
+Pune,2014,Masters,3,24,Male,No,2,NO
+Bangalore,2013,Bachelors,3,28,Male,No,1,NO
+Pune,2015,Bachelors,3,27,Male,No,5,NO
+Bangalore,2018,Bachelors,3,25,Male,No,3,YES
+Pune,2013,Masters,1,24,Male,No,2,YES
+Bangalore,2017,Bachelors,3,26,Female,No,4,NO
+Bangalore,2013,Bachelors,3,28,Male,No,1,YES
+New Delhi,2016,Masters,3,27,Male,No,5,NO
+Bangalore,2017,Masters,3,26,Male,No,4,NO
+New Delhi,2017,Masters,2,24,Male,No,2,NO
+New Delhi,2018,Masters,3,26,Male,No,4,YES
+New Delhi,2017,Masters,1,25,Female,No,3,YES
+Pune,2012,Bachelors,3,28,Male,No,2,NO
+New Delhi,2017,Bachelors,3,28,Male,No,2,NO
+Bangalore,2013,Bachelors,3,26,Male,No,4,NO
+New Delhi,2013,Masters,3,27,Male,No,5,YES
+Pune,2017,Bachelors,2,24,Female,No,2,YES
+New Delhi,2017,Bachelors,3,28,Female,No,2,NO
+Bangalore,2016,Bachelors,3,26,Male,No,4,NO
+Bangalore,2013,Bachelors,3,27,Female,No,5,NO
+Pune,2015,Masters,2,28,Female,No,3,NO
+Bangalore,2014,Bachelors,3,25,Male,No,3,NO
+Pune,2016,Bachelors,3,28,Male,No,1,NO
+Bangalore,2013,Masters,1,25,Male,No,3,YES
+Pune,2015,Bachelors,3,26,Male,No,4,NO
+New Delhi,2018,Bachelors,3,27,Female,No,5,YES
+Bangalore,2016,Bachelors,3,24,Male,No,2,YES
+Pune,2012,Bachelors,2,24,Female,No,2,YES
+Bangalore,2014,Bachelors,3,26,Male,No,4,NO
+Pune,2016,Bachelors,2,24,Female,No,2,YES
+New Delhi,2012,Masters,3,26,Female,No,4,NO
+Bangalore,2013,Bachelors,3,28,Female,No,3,NO
+Bangalore,2012,Bachelors,3,24,Male,No,2,YES
+Bangalore,2015,Bachelors,3,25,Male,No,3,YES
+Bangalore,2016,Bachelors,3,28,Male,No,3,NO
+Bangalore,2014,Bachelors,3,28,Female,No,3,NO
+Bangalore,2013,Bachelors,3,26,Female,No,4,NO
+New Delhi,2017,Masters,3,24,Female,No,2,YES
+Bangalore,2016,Bachelors,3,25,Male,No,3,YES
+Bangalore,2015,Bachelors,3,25,Male,No,3,NO
+Bangalore,2014,Bachelors,3,27,Male,No,5,NO
+Bangalore,2012,Bachelors,3,24,Male,No,2,NO
+Bangalore,2014,Bachelors,3,25,Male,No,3,NO
+Bangalore,2015,Bachelors,3,28,Male,No,3,NO
+New Delhi,2015,Masters,3,26,Male,No,4,YES
+New Delhi,2014,Bachelors,3,28,Female,No,1,NO
+Pune,2015,Bachelors,3,25,Male,No,3,NO
+Pune,2015,Masters,2,28,Female,No,2,NO
+Bangalore,2014,Bachelors,3,27,Female,No,5,NO
+Bangalore,2013,Bachelors,3,26,Male,No,4,NO
+Bangalore,2016,Bachelors,3,26,Male,No,4,NO
+Bangalore,2012,Bachelors,3,25,Male,No,3,NO
+Bangalore,2015,Bachelors,3,25,Male,No,3,NO
+New Delhi,2014,Bachelors,3,24,Female,No,2,NO
+Bangalore,2012,Bachelors,3,27,Male,No,5,YES
+New Delhi,2017,Masters,3,27,Male,No,5,YES
+Pune,2015,Bachelors,3,27,Male,No,5,NO
+Bangalore,2018,Bachelors,3,24,Male,No,2,YES
+New Delhi,2017,Masters,3,27,Male,No,5,YES
+New Delhi,2017,Masters,2,28,Female,No,1,YES
+Pune,2017,Masters,2,24,Male,No,2,YES
+New Delhi,2016,Masters,3,25,Female,No,3,YES
+New Delhi,2015,PHD,3,28,Female,No,1,NO
+New Delhi,2017,Bachelors,2,26,Male,No,4,NO
+Bangalore,2013,Bachelors,2,27,Male,No,5,NO
+Bangalore,2015,Bachelors,3,26,Male,No,4,NO
+Bangalore,2015,Bachelors,3,26,Male,No,4,NO
+Bangalore,2013,Bachelors,3,28,Male,No,1,NO
+Bangalore,2015,Bachelors,3,27,Female,No,5,NO
+New Delhi,2013,Bachelors,3,25,Female,No,3,NO
+Pune,2013,Bachelors,3,28,Male,No,1,NO
+Pune,2017,Bachelors,3,24,Male,No,2,NO
+New Delhi,2013,Bachelors,3,27,Female,No,5,NO
+Bangalore,2015,Bachelors,3,28,Male,Yes,2,NO
+Pune,2015,Bachelors,3,28,Male,No,3,NO
+Pune,2014,Bachelors,2,25,Female,No,3,YES
+Bangalore,2014,Bachelors,3,25,Male,No,3,NO
+Bangalore,2017,Bachelors,3,27,Male,No,5,NO
+Pune,2014,Bachelors,2,26,Female,No,4,YES
+New Delhi,2013,PHD,3,24,Male,No,2,NO
+Pune,2015,Bachelors,2,26,Female,No,4,YES
+Bangalore,2017,Bachelors,3,25,Male,No,3,NO
+Pune,2013,Masters,2,27,Male,No,5,YES
+Bangalore,2017,Masters,3,28,Male,No,2,NO
+Bangalore,2012,Bachelors,3,25,Male,No,3,YES
+Bangalore,2017,Bachelors,3,27,Male,No,5,NO
+Pune,2017,Masters,2,27,Female,No,5,NO
+Bangalore,2013,Masters,2,28,Female,No,2,YES
+Pune,2017,Masters,3,28,Male,No,1,YES
+Bangalore,2018,Bachelors,3,27,Female,No,5,YES
+New Delhi,2014,Bachelors,3,25,Female,No,3,NO
+New Delhi,2017,Masters,3,27,Male,No,5,YES
+New Delhi,2013,Masters,3,26,Male,No,4,YES
+Pune,2013,Bachelors,2,25,Female,No,3,YES
+New Delhi,2012,Masters,3,26,Male,No,4,YES
+Bangalore,2016,Bachelors,3,25,Male,No,3,YES
+Pune,2013,Bachelors,2,26,Male,No,4,NO
+Bangalore,2018,Bachelors,3,28,Female,No,2,YES
+Bangalore,2013,Bachelors,3,27,Male,No,5,NO
+Pune,2015,Bachelors,1,24,Female,Yes,2,YES
+Pune,2013,Bachelors,3,28,Male,No,2,NO
+Pune,2015,Bachelors,2,27,Female,Yes,5,YES
+Bangalore,2018,Bachelors,3,25,Male,No,3,YES
+Pune,2014,Bachelors,2,27,Female,No,5,YES
+Pune,2013,Bachelors,3,24,Male,No,2,NO
+Pune,2014,Bachelors,3,24,Male,No,2,NO
+New Delhi,2015,PHD,2,25,Female,No,3,NO
+Bangalore,2014,Bachelors,3,26,Male,Yes,4,NO
+Bangalore,2018,Bachelors,3,24,Male,No,2,YES
+Pune,2015,Masters,2,25,Female,No,3,NO
+Bangalore,2015,Bachelors,3,24,Male,No,2,NO
+New Delhi,2014,Bachelors,3,24,Female,No,2,NO
+Bangalore,2017,Masters,2,26,Female,No,4,YES
+New Delhi,2012,Bachelors,3,28,Male,No,1,NO
+Pune,2017,Masters,2,26,Female,No,4,NO
+Pune,2016,Bachelors,3,25,Male,No,3,NO
+New Delhi,2017,Bachelors,3,24,Male,No,2,YES
+Pune,2013,Bachelors,2,28,Female,No,3,YES
+Bangalore,2014,Bachelors,3,25,Female,No,3,YES
+Bangalore,2014,Bachelors,3,25,Male,No,3,NO
+Pune,2014,Bachelors,2,24,Female,No,2,YES
+Bangalore,2015,Bachelors,3,28,Male,No,2,YES
+Bangalore,2015,Bachelors,3,27,Male,No,5,NO
+Pune,2016,Bachelors,3,26,Male,No,4,NO
+New Delhi,2015,Masters,3,26,Female,No,4,YES
+Bangalore,2016,Bachelors,1,28,Female,No,2,NO
+Bangalore,2014,Bachelors,3,25,Male,Yes,3,NO
+Bangalore,2014,Bachelors,3,27,Male,No,5,NO
+Bangalore,2017,Bachelors,3,28,Male,No,2,NO
+New Delhi,2018,Masters,3,24,Female,Yes,2,YES
+Pune,2017,Bachelors,2,25,Male,No,3,NO
+Pune,2018,Bachelors,2,24,Female,No,2,YES
+New Delhi,2017,Masters,2,28,Female,No,1,NO
+New Delhi,2013,Bachelors,1,27,Female,No,5,NO
+New Delhi,2017,Bachelors,2,27,Female,No,5,NO
+Bangalore,2017,Bachelors,3,28,Male,No,1,NO
+Pune,2016,Bachelors,2,27,Female,No,5,YES
+Bangalore,2018,Masters,3,24,Male,No,2,YES
+Pune,2012,Bachelors,1,26,Male,No,4,NO
+Bangalore,2016,Bachelors,3,26,Male,No,4,NO
+New Delhi,2016,Masters,1,27,Male,No,5,NO
+New Delhi,2015,Bachelors,3,26,Female,No,4,NO
+Bangalore,2012,Bachelors,3,27,Male,Yes,5,NO
+Bangalore,2013,Bachelors,3,24,Male,Yes,2,YES
+Bangalore,2018,Bachelors,3,26,Female,No,4,YES
+Pune,2017,Masters,2,26,Female,No,4,YES
+New Delhi,2017,Masters,2,28,Female,No,2,NO
+Pune,2013,Bachelors,3,28,Male,No,1,NO
+New Delhi,2013,Masters,3,25,Male,No,3,NO
+Bangalore,2018,Bachelors,3,28,Female,Yes,1,YES
+Pune,2013,Bachelors,3,27,Female,No,5,YES
+Bangalore,2012,Bachelors,3,25,Male,No,3,NO
+Bangalore,2014,Bachelors,3,28,Male,No,1,NO
+New Delhi,2017,Bachelors,3,28,Female,No,3,NO
+New Delhi,2017,Masters,2,28,Male,Yes,2,NO
+Bangalore,2014,Bachelors,3,25,Male,No,3,NO
+New Delhi,2017,Masters,3,26,Male,No,4,NO
+Pune,2015,Bachelors,1,25,Female,No,3,YES
+New Delhi,2013,Masters,3,27,Male,No,5,NO
+Bangalore,2014,PHD,3,24,Female,No,2,NO
+New Delhi,2017,Masters,2,27,Female,No,5,NO
+Bangalore,2018,Bachelors,3,26,Male,No,4,YES
+Bangalore,2012,Bachelors,3,26,Male,No,4,NO
+Pune,2015,Masters,3,27,Female,No,5,YES
+Bangalore,2018,Bachelors,3,26,Male,No,4,YES
+Bangalore,2016,Bachelors,3,24,Male,No,2,NO
+New Delhi,2017,Masters,2,25,Female,No,3,NO
+New Delhi,2017,Bachelors,2,28,Male,No,1,NO
+New Delhi,2012,Bachelors,3,27,Female,No,5,NO
+New Delhi,2013,Masters,3,26,Male,No,4,YES
+Bangalore,2015,Bachelors,3,26,Female,Yes,4,YES
+Pune,2014,Bachelors,3,28,Male,No,2,NO
+Bangalore,2016,Bachelors,3,24,Female,No,2,YES
+Bangalore,2012,Bachelors,3,28,Male,No,3,NO
+Bangalore,2012,Bachelors,3,27,Male,No,5,NO
+Bangalore,2013,Bachelors,3,26,Male,No,4,NO
+New Delhi,2014,Bachelors,3,28,Female,No,1,NO
+New Delhi,2014,Bachelors,3,27,Female,Yes,5,NO
+Pune,2015,Bachelors,3,26,Female,Yes,4,YES
+New Delhi,2014,Masters,3,26,Male,No,4,YES
+New Delhi,2015,PHD,3,25,Female,No,3,NO
+New Delhi,2015,Masters,3,25,Male,No,3,NO
+Pune,2012,Bachelors,3,27,Male,No,5,NO
+New Delhi,2017,Masters,2,24,Female,No,2,NO
+Bangalore,2016,Bachelors,3,24,Male,No,2,NO
+Pune,2015,Masters,3,28,Female,No,2,NO
+Bangalore,2017,Bachelors,3,24,Female,No,2,NO
+Pune,2017,Bachelors,3,25,Male,No,3,NO
+Bangalore,2017,Bachelors,1,25,Male,No,3,NO
+Pune,2015,Masters,3,28,Female,No,2,NO
+Pune,2017,Bachelors,3,26,Male,No,4,NO
+Pune,2014,Bachelors,3,24,Male,No,2,NO
+Pune,2014,Bachelors,3,25,Female,No,3,YES
+Pune,2018,Bachelors,3,26,Female,No,4,YES
+Bangalore,2016,Bachelors,3,27,Male,No,5,NO
+Bangalore,2017,Bachelors,3,28,Female,No,2,NO
+Pune,2012,Bachelors,3,28,Male,No,2,NO
+New Delhi,2012,Masters,3,24,Female,No,2,YES
+Bangalore,2013,Bachelors,3,26,Male,No,4,NO
+New Delhi,2015,Bachelors,3,26,Female,Yes,4,NO
+Bangalore,2017,Bachelors,3,28,Male,No,1,NO
+Pune,2018,Bachelors,3,25,Male,Yes,3,YES
+New Delhi,2017,Masters,3,24,Male,No,2,NO
+Bangalore,2013,Bachelors,3,28,Male,No,2,YES
+Bangalore,2017,Bachelors,3,24,Male,No,2,NO
+New Delhi,2017,Masters,2,25,Female,No,3,YES
+Pune,2013,Bachelors,2,28,Female,No,1,YES
+Bangalore,2015,Bachelors,3,24,Female,No,2,NO
+Pune,2016,Bachelors,3,26,Male,No,4,NO
+New Delhi,2015,Bachelors,2,27,Female,No,5,YES
+Bangalore,2018,Bachelors,3,24,Female,No,2,YES
+Bangalore,2013,Bachelors,3,27,Female,No,5,NO
+Bangalore,2013,Bachelors,3,24,Male,Yes,2,NO
+Bangalore,2013,Bachelors,3,24,Female,No,2,NO
+Bangalore,2013,Bachelors,3,27,Male,No,5,NO
+Bangalore,2017,Bachelors,3,26,Female,No,4,NO
+Bangalore,2015,Bachelors,3,24,Female,No,2,NO
+Pune,2012,Bachelors,3,24,Female,No,2,YES
+Bangalore,2016,Bachelors,3,24,Male,Yes,2,YES
+Bangalore,2012,Bachelors,3,28,Male,No,3,NO
+New Delhi,2017,Bachelors,2,27,Male,No,5,NO
+Pune,2012,Bachelors,2,27,Female,No,5,YES
+Pune,2017,Masters,2,27,Male,No,5,NO
+Pune,2017,Bachelors,2,24,Male,No,2,YES
+Pune,2016,Bachelors,1,26,Female,No,4,YES
+Pune,2015,Bachelors,3,26,Female,No,4,YES
+Bangalore,2016,Bachelors,3,25,Male,No,3,YES
+Pune,2012,Bachelors,3,26,Male,No,4,NO
+Bangalore,2017,Bachelors,3,28,Male,No,2,NO
+Bangalore,2012,Bachelors,3,25,Male,No,3,NO
+Bangalore,2017,Bachelors,3,25,Female,Yes,3,NO
+Pune,2017,Masters,2,26,Male,No,4,NO
+Pune,2017,Masters,3,28,Male,No,1,YES
+Pune,2015,Masters,2,25,Female,No,3,YES
+New Delhi,2017,Bachelors,2,26,Female,No,4,NO
+New Delhi,2017,Bachelors,2,26,Male,No,4,NO
+Bangalore,2016,Bachelors,3,27,Male,No,5,NO
+New Delhi,2017,Bachelors,3,27,Female,No,5,NO
+New Delhi,2015,Bachelors,3,24,Female,No,2,NO
+Bangalore,2017,Masters,1,26,Female,No,4,YES
+New Delhi,2017,Bachelors,1,28,Female,No,2,NO
+Bangalore,2015,Bachelors,3,24,Male,No,2,NO
+Pune,2015,Masters,2,25,Female,No,3,YES
+Bangalore,2014,Bachelors,3,25,Female,No,3,NO
+Bangalore,2014,Bachelors,3,28,Male,No,2,NO
+Bangalore,2017,Bachelors,3,28,Male,No,3,NO
+New Delhi,2015,Masters,1,27,Male,No,5,NO
+Pune,2014,Bachelors,1,26,Female,No,4,YES
+Bangalore,2018,Masters,3,25,Male,Yes,3,YES
+Bangalore,2016,Bachelors,3,28,Female,No,3,NO
+New Delhi,2018,Bachelors,3,26,Female,Yes,4,YES
+Pune,2015,Bachelors,2,24,Female,No,2,YES
+Bangalore,2017,Bachelors,3,27,Male,Yes,5,NO
+Bangalore,2014,Bachelors,3,26,Male,No,4,NO
+Bangalore,2014,Bachelors,3,24,Male,No,2,NO
+Bangalore,2016,Bachelors,3,28,Male,No,2,NO
+Pune,2015,Bachelors,2,25,Female,No,3,YES
+Pune,2013,Bachelors,3,27,Male,No,5,NO
+Bangalore,2015,Bachelors,3,28,Male,No,3,NO
+Bangalore,2014,Bachelors,3,26,Male,No,4,NO
+Bangalore,2012,Bachelors,3,24,Male,No,2,NO
+Bangalore,2013,Bachelors,3,27,Male,No,5,NO
+Bangalore,2015,Bachelors,3,26,Female,Yes,4,YES
+Pune,2015,Bachelors,3,28,Male,No,2,NO
+New Delhi,2014,Bachelors,2,24,Female,No,2,YES
+Bangalore,2013,Bachelors,3,24,Male,No,2,NO
+Bangalore,2018,Bachelors,3,28,Male,Yes,3,YES
+Pune,2015,Bachelors,3,27,Male,No,5,NO
+Pune,2014,Bachelors,2,26,Male,No,4,NO
+Bangalore,2016,Bachelors,3,25,Male,No,3,YES
+Bangalore,2013,PHD,3,25,Male,No,3,NO
+Bangalore,2014,Bachelors,3,25,Male,No,3,NO
+New Delhi,2017,Bachelors,2,28,Female,No,1,NO
+Pune,2015,Bachelors,1,26,Female,No,4,YES
+New Delhi,2017,Masters,3,26,Male,Yes,4,YES
+Bangalore,2014,Bachelors,3,27,Male,No,5,NO
+New Delhi,2012,Bachelors,3,24,Female,No,2,NO
+New Delhi,2017,Bachelors,2,24,Male,No,2,NO
+Bangalore,2015,Bachelors,3,26,Male,No,4,NO
+Bangalore,2012,Bachelors,3,26,Female,No,4,NO
+Bangalore,2015,Bachelors,3,24,Male,No,2,NO
+Pune,2014,Masters,3,25,Male,No,3,NO
+Bangalore,2015,Bachelors,3,28,Male,No,2,NO
+Pune,2016,Bachelors,3,24,Male,No,2,NO
+Bangalore,2016,Bachelors,3,26,Female,No,4,NO
+Pune,2015,Bachelors,2,25,Female,Yes,3,YES
+New Delhi,2013,Masters,2,25,Male,No,3,YES
+Pune,2017,Bachelors,3,25,Male,No,3,NO
+Pune,2015,Bachelors,2,26,Female,Yes,4,YES
+Bangalore,2015,Masters,2,26,Female,No,4,YES
+Pune,2012,Bachelors,3,27,Female,No,5,NO
+New Delhi,2017,Masters,3,28,Male,Yes,2,NO
+Pune,2016,Bachelors,3,25,Male,No,3,NO
+Bangalore,2016,Bachelors,3,24,Male,No,2,NO
+Pune,2016,Bachelors,3,28,Male,No,1,NO
+New Delhi,2013,Bachelors,3,27,Female,Yes,5,NO
+New Delhi,2015,Bachelors,3,26,Male,No,4,NO
+Bangalore,2016,Bachelors,3,27,Male,No,5,NO
+Pune,2017,Bachelors,2,27,Male,No,5,NO
+Bangalore,2012,Bachelors,3,27,Male,No,5,NO
+New Delhi,2018,PHD,3,25,Male,No,3,YES
+Pune,2014,Bachelors,3,27,Male,No,5,NO
+Bangalore,2013,Bachelors,3,26,Female,No,4,NO
+Pune,2017,Masters,2,24,Female,No,2,YES
+New Delhi,2016,PHD,2,28,Male,No,3,YES
+New Delhi,2014,Masters,3,26,Male,No,4,YES
+New Delhi,2017,Masters,2,27,Male,Yes,5,YES
+New Delhi,2013,PHD,3,27,Male,No,5,NO
+New Delhi,2014,Masters,3,28,Female,No,1,NO
+Pune,2017,Bachelors,3,27,Male,No,5,NO
+Pune,2015,Bachelors,3,26,Female,Yes,4,YES
+Bangalore,2014,Masters,3,26,Male,No,4,YES
+Pune,2012,Masters,3,27,Male,No,5,NO
+Bangalore,2017,Bachelors,3,26,Male,No,4,NO
+Pune,2017,Masters,2,27,Male,No,5,YES
+Bangalore,2017,Bachelors,3,27,Male,No,5,NO
+Bangalore,2016,Bachelors,3,25,Male,No,3,YES
+Pune,2016,Bachelors,3,27,Male,Yes,5,NO
+Pune,2014,Bachelors,3,25,Male,No,3,NO
+Bangalore,2017,Bachelors,3,28,Male,No,1,NO
+Pune,2012,Masters,3,24,Male,No,2,NO
+Bangalore,2014,Bachelors,3,25,Male,Yes,3,NO
+Pune,2013,Bachelors,2,25,Male,No,3,YES
+Pune,2012,Bachelors,3,27,Male,No,5,NO
+Bangalore,2017,Bachelors,3,26,Male,No,4,NO
+Pune,2013,Bachelors,3,26,Male,No,4,NO
+Bangalore,2016,Bachelors,3,24,Male,No,2,NO
+Bangalore,2014,Bachelors,3,25,Female,No,3,NO
+New Delhi,2015,Bachelors,3,25,Male,No,3,NO
+Pune,2012,PHD,3,24,Male,No,2,NO
+Bangalore,2013,Bachelors,3,27,Male,No,5,NO
+Bangalore,2015,Bachelors,3,25,Male,No,3,NO
+Bangalore,2016,Bachelors,3,26,Male,No,4,NO
+New Delhi,2015,Masters,3,24,Female,No,2,NO
+Bangalore,2012,Bachelors,3,26,Male,No,4,NO
+Pune,2013,Bachelors,3,24,Male,No,2,NO
+New Delhi,2017,Masters,3,24,Male,No,2,YES
+Bangalore,2014,Bachelors,1,25,Male,Yes,3,NO
+Bangalore,2018,Bachelors,3,28,Male,No,1,YES
+Bangalore,2017,Bachelors,3,28,Male,Yes,3,NO
+Bangalore,2013,Masters,3,28,Female,Yes,2,YES
+Bangalore,2013,Bachelors,3,26,Male,Yes,4,NO
+New Delhi,2018,Masters,1,24,Male,Yes,2,YES
+Bangalore,2012,Bachelors,3,25,Male,No,3,NO
+New Delhi,2013,PHD,2,27,Female,No,5,NO
+New Delhi,2018,Masters,3,28,Male,Yes,2,YES
+Bangalore,2014,Bachelors,3,28,Male,No,3,YES
+Pune,2014,Bachelors,3,27,Male,No,5,NO
+New Delhi,2013,Bachelors,3,24,Female,No,2,YES
+Pune,2015,Bachelors,2,28,Female,No,1,YES
+Pune,2015,Bachelors,2,26,Female,No,4,YES
+New Delhi,2017,Bachelors,2,28,Female,No,3,NO
+Pune,2012,Masters,3,27,Female,No,5,YES
+Pune,2017,Masters,3,25,Female,Yes,3,YES
+New Delhi,2013,Masters,2,25,Male,No,3,YES
+New Delhi,2017,Masters,2,27,Male,No,5,YES
+Bangalore,2017,Bachelors,3,24,Male,No,2,NO
+Pune,2016,Bachelors,2,24,Female,No,2,YES
+Bangalore,2012,Bachelors,3,26,Female,No,4,NO
+Bangalore,2012,Bachelors,3,24,Male,No,2,YES
+Pune,2017,Masters,2,24,Male,No,2,NO
+Pune,2015,Bachelors,2,25,Female,Yes,3,YES
+New Delhi,2015,Bachelors,3,26,Female,Yes,4,NO
+Pune,2013,Bachelors,2,24,Male,Yes,2,YES
+Pune,2013,Bachelors,3,25,Male,No,3,NO
+New Delhi,2015,PHD,2,28,Female,No,1,NO
+Pune,2016,Bachelors,3,24,Male,No,2,NO
+Bangalore,2017,Bachelors,3,24,Female,No,2,NO
+Bangalore,2016,Bachelors,3,27,Male,No,5,NO
+Bangalore,2017,Bachelors,3,25,Female,No,3,NO
+New Delhi,2014,Masters,3,27,Male,No,5,NO
+Bangalore,2016,Bachelors,3,27,Male,No,5,NO
+Bangalore,2016,Bachelors,3,28,Female,No,3,NO
+Pune,2018,Bachelors,3,25,Male,No,3,YES
+Bangalore,2013,Bachelors,3,26,Male,Yes,4,YES
+New Delhi,2015,Bachelors,3,25,Male,No,3,YES
+New Delhi,2017,Bachelors,2,25,Female,No,3,YES
+Bangalore,2012,Bachelors,3,25,Male,Yes,3,NO
+New Delhi,2014,Bachelors,3,28,Female,No,2,NO
+New Delhi,2017,Bachelors,2,27,Female,No,5,NO
+Pune,2018,Bachelors,3,26,Male,No,4,YES
+New Delhi,2014,Masters,3,28,Male,No,2,NO
+Bangalore,2013,Bachelors,3,27,Male,No,5,YES
+Pune,2017,Masters,3,25,Male,No,3,YES
+Bangalore,2018,Bachelors,3,28,Male,No,2,YES
+Bangalore,2016,Bachelors,3,24,Male,No,2,NO
+Bangalore,2012,Bachelors,3,24,Male,Yes,2,NO
+Bangalore,2015,Bachelors,3,28,Female,No,1,NO
+Bangalore,2014,Bachelors,3,24,Male,No,2,NO
+Pune,2013,Bachelors,3,27,Male,No,5,NO
+New Delhi,2016,Bachelors,3,24,Female,No,2,NO
+Bangalore,2012,Bachelors,3,25,Female,No,3,NO
+Pune,2012,Bachelors,3,28,Male,No,3,NO
+Pune,2018,Bachelors,3,25,Male,Yes,3,YES
+Bangalore,2014,Bachelors,3,27,Male,No,5,YES
+Bangalore,2016,Bachelors,3,27,Female,No,5,NO
+Pune,2015,Masters,2,24,Female,No,2,NO
+Bangalore,2014,Masters,3,24,Female,No,2,YES
+Bangalore,2013,Bachelors,3,25,Male,No,3,NO
+New Delhi,2017,Masters,3,24,Male,No,2,NO
+Bangalore,2015,Bachelors,3,25,Male,No,3,NO
+Bangalore,2017,Bachelors,3,24,Male,No,2,NO
+New Delhi,2017,Bachelors,2,28,Male,No,3,NO
+Bangalore,2016,Bachelors,3,28,Male,No,2,NO
+New Delhi,2014,PHD,3,24,Male,No,2,NO
+New Delhi,2017,Masters,2,26,Female,No,4,NO
+New Delhi,2018,Masters,3,25,Male,No,3,YES
+Bangalore,2014,Bachelors,3,28,Male,No,3,YES
+Bangalore,2014,Bachelors,3,25,Male,No,3,YES
+New Delhi,2018,Bachelors,3,28,Female,No,3,YES
+New Delhi,2017,Masters,2,25,Male,Yes,3,YES
+New Delhi,2013,Masters,3,28,Male,No,2,NO
+Bangalore,2014,Bachelors,3,26,Male,Yes,4,NO
+New Delhi,2017,Masters,2,25,Female,No,3,YES
+New Delhi,2013,Masters,3,25,Female,No,3,NO
+Bangalore,2016,Bachelors,3,25,Male,No,3,NO
+Bangalore,2018,Bachelors,3,24,Male,No,2,YES
+New Delhi,2017,Masters,2,26,Male,Yes,4,YES
+Bangalore,2013,Bachelors,3,24,Male,No,2,NO
+Bangalore,2013,Bachelors,3,28,Male,No,2,NO
+Pune,2015,Masters,3,28,Female,Yes,2,NO
+Pune,2015,Bachelors,2,27,Female,Yes,5,YES
+Pune,2014,Masters,2,27,Female,No,5,NO
+New Delhi,2017,Bachelors,2,27,Male,No,5,NO
+Bangalore,2012,Bachelors,3,26,Male,No,4,NO
+Pune,2015,Masters,1,27,Female,No,5,NO
+Bangalore,2013,Bachelors,1,28,Male,No,3,YES
+Pune,2012,Bachelors,2,26,Female,No,4,YES
+Bangalore,2013,Bachelors,3,27,Male,No,5,NO
+New Delhi,2017,Masters,2,25,Male,No,3,NO
+Bangalore,2017,Bachelors,3,27,Male,No,5,NO
+Bangalore,2012,Bachelors,3,24,Male,No,2,NO
+New Delhi,2017,Bachelors,3,26,Male,No,4,NO
+Bangalore,2014,Bachelors,3,28,Female,No,1,YES
+Bangalore,2015,Bachelors,3,25,Male,No,3,NO
+Pune,2015,Bachelors,2,28,Female,No,3,YES
+Bangalore,2017,Bachelors,3,24,Female,No,2,NO
+Bangalore,2016,Bachelors,3,27,Female,No,5,YES
+Bangalore,2012,Bachelors,3,25,Male,No,3,NO
+Pune,2018,Masters,3,25,Male,No,3,YES
+Pune,2015,Bachelors,3,26,Male,No,4,NO
+Pune,2014,Bachelors,3,26,Male,No,4,NO
+New Delhi,2017,PHD,3,27,Male,No,5,NO
+Bangalore,2012,Bachelors,3,26,Male,No,4,NO
+Bangalore,2016,Bachelors,3,26,Male,No,4,NO
+New Delhi,2017,Bachelors,3,28,Female,No,2,NO
+Pune,2014,Bachelors,3,25,Female,No,3,NO
+Bangalore,2013,Bachelors,3,28,Male,Yes,3,NO
+Bangalore,2017,Bachelors,3,25,Male,No,3,NO
+Bangalore,2018,Bachelors,3,27,Male,No,5,YES
+Bangalore,2017,Bachelors,3,26,Male,No,4,NO
+Pune,2017,Bachelors,2,25,Female,No,3,YES
+Pune,2017,Bachelors,2,26,Female,No,4,YES
+Pune,2015,Bachelors,3,28,Male,No,3,NO
+Pune,2017,Masters,2,26,Male,No,4,YES
+New Delhi,2015,Masters,3,28,Female,Yes,2,NO
+New Delhi,2012,Bachelors,2,25,Male,No,3,YES
+Bangalore,2016,Bachelors,3,25,Female,No,3,NO
+New Delhi,2017,Masters,2,26,Female,No,4,NO
+Bangalore,2014,Bachelors,3,25,Male,No,3,NO
+Bangalore,2014,Bachelors,3,25,Male,No,3,YES
+Bangalore,2018,PHD,3,26,Male,No,4,YES
+Pune,2016,Bachelors,3,26,Male,No,4,NO
+Bangalore,2014,Bachelors,3,27,Male,No,5,NO
+Bangalore,2012,Bachelors,3,25,Male,No,3,NO
+Pune,2012,Masters,2,26,Female,No,4,NO
+New Delhi,2016,Masters,3,27,Male,No,5,YES
+Bangalore,2017,PHD,3,28,Male,No,1,NO
+Bangalore,2014,Bachelors,3,27,Male,No,5,NO
+Pune,2018,Bachelors,3,26,Male,No,4,YES
+Bangalore,2018,Bachelors,1,27,Male,No,5,NO
+Pune,2016,Bachelors,3,24,Male,No,2,NO
+Bangalore,2012,Bachelors,3,25,Male,No,3,NO
+Bangalore,2017,Bachelors,3,27,Male,No,5,NO
+Bangalore,2016,Bachelors,3,28,Male,No,2,NO
+New Delhi,2017,Bachelors,2,27,Male,No,5,NO
+Bangalore,2013,Bachelors,3,25,Male,No,3,NO
+Bangalore,2013,Bachelors,3,28,Male,No,1,NO
+Bangalore,2018,Bachelors,3,28,Female,No,3,YES
+Bangalore,2016,Bachelors,3,27,Male,Yes,5,NO
+Pune,2015,Masters,2,28,Female,No,3,NO
+New Delhi,2015,Masters,3,24,Female,No,2,YES
+New Delhi,2017,Bachelors,3,24,Male,No,2,NO
+Pune,2015,Bachelors,2,24,Female,No,2,YES
+Pune,2013,Masters,3,28,Male,No,2,YES
+Pune,2017,Bachelors,3,27,Female,No,5,YES
+Pune,2014,Bachelors,3,26,Male,No,4,NO
+Bangalore,2016,Bachelors,3,26,Male,No,4,NO
+Pune,2014,Bachelors,1,26,Female,No,4,YES
+Pune,2015,Bachelors,3,28,Male,No,3,NO
+Bangalore,2012,Bachelors,3,26,Male,No,4,NO
+New Delhi,2017,Bachelors,2,26,Male,No,4,NO
+New Delhi,2017,Masters,2,26,Female,No,4,NO
+Bangalore,2016,Bachelors,3,26,Male,No,4,YES
+Bangalore,2013,Bachelors,3,26,Male,Yes,4,NO
+Bangalore,2014,Bachelors,3,28,Male,No,3,YES
+New Delhi,2014,Bachelors,3,28,Female,No,3,NO
+Pune,2014,Bachelors,3,25,Female,No,3,YES
+Pune,2016,Bachelors,3,28,Male,No,3,NO
+Bangalore,2017,Masters,3,27,Male,No,5,YES
+Bangalore,2015,Bachelors,3,25,Male,No,3,NO
+Pune,2014,Bachelors,3,27,Male,No,5,NO
+Pune,2012,Bachelors,3,28,Male,No,3,NO
+Pune,2017,Masters,3,26,Male,No,4,YES
+Bangalore,2013,Bachelors,3,25,Male,Yes,3,NO
+Pune,2015,Bachelors,2,28,Female,No,2,YES
+Bangalore,2013,PHD,1,26,Male,No,4,NO
+Pune,2012,Masters,3,27,Male,No,5,YES
+Bangalore,2016,Bachelors,1,28,Male,No,2,NO
+Bangalore,2017,Bachelors,3,27,Male,No,5,NO
+Bangalore,2017,Bachelors,3,25,Male,No,3,NO
+New Delhi,2017,Masters,2,24,Female,Yes,2,YES
+Bangalore,2015,Bachelors,1,25,Female,Yes,3,NO
+Bangalore,2018,Bachelors,3,27,Male,No,5,YES
+Bangalore,2014,Bachelors,3,26,Male,No,4,NO
+Bangalore,2018,Bachelors,3,26,Male,No,4,YES
+Pune,2015,Bachelors,2,24,Female,No,2,YES
+Bangalore,2018,Bachelors,3,27,Male,No,5,YES
+Bangalore,2016,Bachelors,3,27,Female,No,5,NO
+New Delhi,2016,Masters,3,25,Female,No,3,YES
+New Delhi,2018,Masters,3,26,Male,No,4,YES
+Bangalore,2018,Bachelors,3,24,Female,No,2,YES
+New Delhi,2017,Bachelors,2,28,Male,No,3,NO
+Bangalore,2015,Bachelors,3,27,Male,No,5,NO
+Bangalore,2017,Bachelors,3,26,Male,No,4,NO
+Bangalore,2016,Bachelors,3,25,Male,No,3,NO
+Pune,2013,Bachelors,3,25,Male,No,3,NO
+Pune,2015,Bachelors,3,25,Female,No,3,YES
+Bangalore,2014,Bachelors,3,28,Female,No,3,NO
+Pune,2015,Bachelors,3,24,Male,No,2,NO
+Bangalore,2016,Bachelors,3,26,Female,No,4,NO
+Bangalore,2018,Bachelors,1,25,Male,Yes,3,NO
+Pune,2017,Masters,2,28,Female,No,1,NO
+Pune,2014,Bachelors,2,25,Female,No,3,YES
+Bangalore,2017,Bachelors,3,25,Male,No,3,NO
+Bangalore,2016,Bachelors,3,28,Female,No,3,NO
+Bangalore,2014,Bachelors,3,28,Female,No,2,NO
+New Delhi,2017,Masters,2,28,Male,No,2,NO
+New Delhi,2017,Bachelors,2,24,Female,No,2,NO
+New Delhi,2013,PHD,2,25,Male,No,3,YES
+Bangalore,2017,Bachelors,3,24,Male,No,2,NO
+Bangalore,2017,Bachelors,3,26,Female,No,4,NO
+Bangalore,2015,Bachelors,1,25,Male,No,3,NO
+Bangalore,2016,Bachelors,3,26,Female,No,4,NO
+New Delhi,2014,PHD,3,28,Male,No,2,YES
+New Delhi,2018,Masters,3,27,Female,No,5,YES
+New Delhi,2016,Bachelors,3,27,Female,No,5,NO
+New Delhi,2017,Masters,2,25,Male,No,3,YES
+Bangalore,2017,Bachelors,3,26,Male,No,4,NO
+New Delhi,2016,Bachelors,3,27,Female,Yes,5,NO
+Pune,2017,Bachelors,2,25,Female,No,3,YES
+Pune,2018,Bachelors,3,28,Female,No,1,YES
+Bangalore,2014,Bachelors,3,25,Female,No,3,YES
+Pune,2018,Bachelors,3,28,Male,No,1,YES
+Bangalore,2017,Bachelors,1,26,Female,No,4,NO
+Bangalore,2013,Bachelors,3,24,Male,No,2,YES
+New Delhi,2012,Bachelors,3,26,Female,No,4,NO
+Pune,2012,Bachelors,3,25,Male,No,3,NO
+New Delhi,2013,Masters,2,24,Male,No,2,YES
+Pune,2018,Bachelors,3,26,Male,No,4,YES
+New Delhi,2016,Bachelors,3,28,Female,No,2,NO
+Pune,2016,Bachelors,3,26,Male,No,4,NO
+New Delhi,2014,Masters,3,24,Male,No,2,NO
+Bangalore,2013,Bachelors,3,26,Male,No,4,NO
+Pune,2014,Bachelors,2,26,Female,No,4,YES
+Pune,2014,Bachelors,3,25,Male,No,3,NO
+Pune,2013,Bachelors,3,27,Male,No,5,NO
+Bangalore,2018,Bachelors,3,27,Male,No,5,YES
+Bangalore,2015,Bachelors,3,25,Female,No,3,YES
+Pune,2016,Bachelors,3,26,Male,No,4,NO
+Pune,2015,Bachelors,2,27,Female,No,5,YES
+Bangalore,2017,Bachelors,3,26,Male,No,4,NO
+Pune,2017,Masters,2,26,Female,No,4,NO
+New Delhi,2017,Bachelors,3,27,Female,Yes,5,NO
